@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react-dom": "^16.4.2",
+    "react-webcam": "^1.0.4"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
